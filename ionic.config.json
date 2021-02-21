@@ -1,0 +1,8 @@
+{
+  "name": "Mi-Ionic-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5bb2b7b4"
+}
